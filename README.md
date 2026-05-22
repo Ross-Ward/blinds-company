@@ -1,3 +1,5 @@
+![web-app](./public/banner.svg)
+
 # 🏠 Dublin City Blinds - Premium Landing Page
 
 A high-end, modern landing page for a bespoke window treatment business based in Dublin, Ireland. Featuring a luxury aesthetic, interactive product galleries, and a mobile-responsive design.
